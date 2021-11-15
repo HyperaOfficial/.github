@@ -16,9 +16,9 @@
  - [UpdateLib](https://github.com/HyperaOfficial/UpdateLib/)
 
 ## Developers
- - @joshuasing
- - @SLLCoding
- - @FitztianPlays
+ - [@joshuasing](https://github.com/joshuasing)
+ - [@SLLCoding](https://github.com/SLLCoding)
+ - [@FitztianPlays](https://github.com/FitztianPlays)
 
 
 ## Contact
