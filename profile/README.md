@@ -14,3 +14,14 @@
  - [Chameleon](https://github.com/HyperaOfficial/Chameleon/)
  - [Dragonfly](https://github.com/HyperaOfficial/Dragonfly/)
  - [UpdateLib](https://github.com/HyperaOfficial/UpdateLib/)
+
+## Developers
+ - @joshuasing
+ - @SLLCoding
+ - @FitztianPlays
+
+
+## Contact
+ - Discord: https://discord.hypera.dev/
+ - Email: [contact@hypera.dev](mailto:contact@hypera.dev)
+ - Security vulnerabilities: [security@hypera.dev](mailto:security@hypera.dev)
