@@ -4,7 +4,7 @@
 </p>
 <br>
 
-## [Plugins](https://www.spigotmc.org/resources/authors/hypera.600435/)
+## Plugins
  - [UltraStaffChatPro](https://www.spigotmc.org/resources/80461/)
  - [UltraStaffChat BungeeCord](https://www.spigotmc.org/resources/68956/)
  - [UltraAliases](https://www.spigotmc.org/resources/84499/)
