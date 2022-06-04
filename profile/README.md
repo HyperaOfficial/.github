@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/HyperaOfficial/.github/blob/master/hypera-icon@2x.png" height="150">
+  <img src="https://raw.githubusercontent.com/HyperaOfficial/.github/main/hypera-icon%402x.png" height="150">
   <h3 align="center">Hypera Development</h3>
 </p>
 <br>
